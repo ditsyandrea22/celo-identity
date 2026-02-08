@@ -1,0 +1,12 @@
+# v0 runtime files (should only exist in preview, not in git)
+runtime_loader.js
+devtools.tsx
+jsx-dev-runtime.ts
+instrumentation-client.js
+instrumentation-client.ts
+
+# Common ignores
+node_modules/
+.next/
+.env
+.DS_Store
